@@ -11,7 +11,7 @@ assignees: ''
 
 ### Short Summary
 
-### Occurencies
+### Occurrences
 
 * [ ] always
 * [ ] special use cases:
